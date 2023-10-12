@@ -1,0 +1,48 @@
+{
+    "Index": {
+        "title": "こんにちは世界",
+        "lang1": "English",
+        "lang2": "日本語",
+        "locale": "{locale, select, ja {日本語} en {English} other {未知}}"
+    },
+    "Sidebar": {
+        "todo": "ダッシュボード",
+        "ui": "人々",
+        "counter": "カウンター",
+        "datafetch": "統計",
+        "documents": "書類",
+        "calendar": "カレンダー",
+        "request": "リクエスト",
+        "support": "サポート"
+    },
+    "People": {
+        "title": "人々",
+        "tab1": "全て",
+        "tab2": "組織",
+        "Placeholder": "名前で検索",
+        "DesignTeam": "デザインチーム",
+        "Position": "位置",
+        "More": "もっと",
+        "SortBy": "並べ替え",
+        "PositionNames": {
+            "SeniorCreativeDirector": "シニアクリエイティブディレクター",
+            "CreativeDirector": "ディレクターの作成",
+            "SeniorUIDesigner": "シニアUIデザイナー",
+            "SeniorCopywriter": "シニアコピーライター",
+            "ArtDirector": "美術監督",
+            "SeniorUXDesigner": "シニアUXデザイナー"
+        },
+        "selected": "選択された",
+        "project": "プロジェクト",
+        "total": "合計",
+        "completed": "完成した",
+        "in-progress": "進行中",
+        "waiting": "待っている",
+        "declaration-center": "申告センター",
+        "internal-message": "内部メッセージ"
+    },
+    "Counter": {
+        "increment": "増加",
+        "decrement": "減少"
+    }
+}

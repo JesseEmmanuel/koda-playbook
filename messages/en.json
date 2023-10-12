@@ -1,0 +1,48 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "lang1": "English",
+        "lang2": "日本語",
+        "locale": "{locale, select, ja {日本語} en {English} other {Unknown}}"
+    },
+    "Sidebar": {
+        "todo": "Todo App",
+        "ui": "UI Flex",
+        "counter": "Counter App",
+        "datafetch": "Data Fetching",
+        "documents": "Documents",
+        "calendar": "Calendar",
+        "request": "Request",
+        "support": "Support"
+    },
+    "People": {
+        "title": "People",
+        "tab1": "All",
+        "tab2": "Organization",
+        "Placeholder": "Search by name",
+        "DesignTeam": "Design Team",
+        "Position": "Postion",
+        "More": "More",
+        "SortBy": "Sort by",
+        "PositionNames": {
+            "SeniorCreativeDirector": "Senior Creative Director",
+            "CreativeDirector": "Creative Director",
+            "SeniorUIDesigner": "Senior UI Designer",
+            "SeniorCopywriter": "Senior Copywriter",
+            "ArtDirector": "Art Director",
+            "SeniorUXDesigner": "Senior UX Designer"
+        },
+        "selected": "SELECTED",
+        "project": "Project",
+        "total": "TOTAL",
+        "completed": "COMPLETED",
+        "in-progress": "IN PROGRESS",
+        "waiting": "WAITING",
+        "declaration-center": "DECLARATION CENTER",
+        "internal-message": "Internal Messages"
+    },
+    "Counter": {
+        "increment": "Increment",
+        "decrement": "Decrement"
+    }
+}
